@@ -1,6 +1,6 @@
 # Bajaj Spring Boot JAR Project
 
-A minimal, production-ready Spring Boot (3.3.x, Java 17) REST API that builds a single executable JAR. Perfect for your Bajaj recruitment program first round.
+
 
 ## Features
 - Build a fat JAR with `spring-boot-maven-plugin`
@@ -65,7 +65,3 @@ docker build -t bajaj-springboot-jar:latest .
 # Run container
 docker run -p 8080:8080 bajaj-springboot-jar:latest
 ```
-
-## Notes
-- Java 17+ and Maven 3.9+ recommended.
-- Data is in-memory only (resets on restart). For persistence, plug in Spring Data JPA + a database later.
