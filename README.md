@@ -1,4 +1,3 @@
-# springboot-jar-project
 # Bajaj Spring Boot JAR Project
 
 A minimal, production-ready Spring Boot (3.3.x, Java 17) REST API that builds a single executable JAR. Perfect for your Bajaj recruitment program first round.
